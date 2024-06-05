@@ -56,4 +56,4 @@ jobs:
           app-name: 'scrumBack'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_63AFF64265CF49549B506C35ADA0A6F4 }}
-          package: 'scrum_back-0.0.1-SNAPSHOT-plain.jar'
+          package: 'scrum_back-0.0.1-SNAPSHOT.jar'
