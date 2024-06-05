@@ -34,7 +34,7 @@ dependencies {
     annotationProcessor 'org.projectlombok:lombok'
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
-    implementation 'org.postgresql:postgresql:42.5.4'
+    implementation 'org.postgresql:postgresql:42.2.23'
     implementation 'org.springframework.hateoas:spring-hateoas:1.4.1' //no actualizar libreria plox
     implementation 'org.hibernate.validator:hibernate-validator:6.2.0.Final'
     implementation 'org.springframework.boot:spring-boot-starter-security:3.0.5'
